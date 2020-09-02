@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://paxle123:paxle123@devconnector.cmnaw.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
