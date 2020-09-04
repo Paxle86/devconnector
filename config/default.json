@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://paxle123:paxle123@devconnector.cmnaw.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "1da91bd67a29a8bd0746",
+  "githubSecret": "c4750e38442af4ae57c521718eaf8846c8ccc359"
 }
